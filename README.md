@@ -21,10 +21,9 @@ Given more time on this project I would create a hosted UI.
 ## Instructions
 1. To use the calculator, you'll need to download Node JS v15.12.0. 
 2. To run tests install Mocha and Chai `npm i mocha` and `npm i chai`.
-3. Download the Reverse-Polish-Notation-Calculator zip file or clone with `git clone https://github.com/KatanaHaley/Updated-RPN-Calculator.git`. 
-4. Open the command line and open the Reverse-Polish-Notation-Calculator in your IDE. 
-5. Enter `cd reversepolishcalc` to navigate to the src directory. 
-6. Enter `cd src` to navigate to the src directory. 
+3. Download the Reverse Polish Notation Calculator zip file or clone with `git clone https://github.com/KatanaHaley/Updated-RPN-Calculator.git`. 
+4. Open the command line and open the Updated-RPN-Calculator in your IDE. 
+6. Enter `cd src` on the command line to navigate to the src directory. 
 6. To use the calculator, enter your calculation into console.log(), ex:`console.log(Calculator("5 8 +");`. 
 7. To see the output run `node Calculator.mjs` in your terminal. 
 
